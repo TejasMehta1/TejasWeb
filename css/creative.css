@@ -4,6 +4,8 @@ html {
   height: 100%;
 }
 
+
+
 .text-boldish{
   font-weight: bold;
 }
@@ -53,6 +55,10 @@ h6
 
 }
 
+.text-muter{
+  color: rgba(0, 6, 50, 0.75);
+}
+
 .bg-primary {
   background-color: #F05F40 !important;
 }
@@ -62,7 +68,8 @@ h6
 }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 1.0);
+
 }
 
 section {
@@ -299,6 +306,11 @@ header.masthead p {
 .text-primary {
   color: #F05F40 !important;
 }
+
+.rounded {
+  width: 10px;
+}
+
 
 .btn {
   font-weight: 700;

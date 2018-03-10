@@ -15,6 +15,10 @@ body {
   /*font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;*/
 }
 
+#skills {
+
+}
+
 hr {
   max-width: 50px;
   border-width: 3px;
@@ -189,9 +193,14 @@ img::-moz-selection {
 }
 
 header.masthead {
+
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/header.jpg");
+background-image: url("../img/head2.png");
+background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
